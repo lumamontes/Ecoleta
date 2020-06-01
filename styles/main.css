@@ -1,0 +1,18 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+#page-home {
+    height: 100vh;
+    background: url('../icones/home-background.svg') no-repeat;
+    background-position: 35vw bottom;
+}
+
+#page-home .content {
+
+}
+
+#page-home header {
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
